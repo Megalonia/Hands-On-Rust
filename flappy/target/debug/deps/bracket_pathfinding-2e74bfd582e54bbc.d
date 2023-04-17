@@ -1,0 +1,10 @@
+/Users/mo/rust/flappy/target/debug/deps/bracket_pathfinding-2e74bfd582e54bbc.rmeta: /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/lib.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/astar.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/dijkstra.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/field_of_view/mod.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/field_of_view/recursive_shadowcasting.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/field_of_view/symmetric_shadowcasting.rs
+
+/Users/mo/rust/flappy/target/debug/deps/bracket_pathfinding-2e74bfd582e54bbc.d: /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/lib.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/astar.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/dijkstra.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/field_of_view/mod.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/field_of_view/recursive_shadowcasting.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/field_of_view/symmetric_shadowcasting.rs
+
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/lib.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/astar.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/dijkstra.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/field_of_view/mod.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/field_of_view/recursive_shadowcasting.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.7/src/field_of_view/symmetric_shadowcasting.rs:

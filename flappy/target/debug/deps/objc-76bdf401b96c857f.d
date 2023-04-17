@@ -1,0 +1,17 @@
+/Users/mo/rust/flappy/target/debug/deps/objc-76bdf401b96c857f.rmeta: /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/lib.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/macros.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/runtime.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/declare.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/mod.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/strong.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/weak.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/autorelease.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/encode.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/mod.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/verify.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/apple/mod.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/apple/arm64.rs
+
+/Users/mo/rust/flappy/target/debug/deps/objc-76bdf401b96c857f.d: /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/lib.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/macros.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/runtime.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/declare.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/mod.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/strong.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/weak.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/autorelease.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/encode.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/mod.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/verify.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/apple/mod.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/apple/arm64.rs
+
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/lib.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/macros.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/runtime.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/declare.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/mod.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/strong.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/weak.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/rc/autorelease.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/encode.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/mod.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/verify.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/apple/mod.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/objc-0.2.7/src/message/apple/arm64.rs:

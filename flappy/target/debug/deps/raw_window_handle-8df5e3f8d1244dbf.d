@@ -1,0 +1,13 @@
+/Users/mo/rust/flappy/target/debug/deps/raw_window_handle-8df5e3f8d1244dbf.rmeta: /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/lib.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/android.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/appkit.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/haiku.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/redox.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/uikit.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/unix.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/web.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/windows.rs
+
+/Users/mo/rust/flappy/target/debug/deps/raw_window_handle-8df5e3f8d1244dbf.d: /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/lib.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/android.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/appkit.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/haiku.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/redox.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/uikit.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/unix.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/web.rs /Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/windows.rs
+
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/lib.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/android.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/appkit.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/haiku.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/redox.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/uikit.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/unix.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/web.rs:
+/Users/mo/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/windows.rs:
